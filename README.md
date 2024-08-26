@@ -1,16 +1,10 @@
 # seicher
+- Developed using Flutter, featuring robust SQL database encryption and secure fingerprint authentication for
+enhanced data protection and user convenience.
+- Has a user-friendly interface to efficiently manage password, making it easy for users to store and retrieve
+credentials securely.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features to add
+- AES encryption.
+- Key cycling after a fixed period of time.
+- Import passwords from a CSV.
